@@ -1,0 +1,5 @@
+Coffee, 2.50
+Expresso, 2.00
+Hammerhead, 3.00
+Latte, 3.50
+Americano, 2.50
